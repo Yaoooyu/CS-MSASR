@@ -33,6 +33,12 @@ We introduce **CS-MSASR**, the **first multimodal video dataset** for the Changs
 - ✂️ **Fine-grained temporal segmentation**
 
 ---
+### 🔗 Dataset
+- **Google Drive**
+- https://drive.google.com/drive/folders/1g5zbyc6ZMVdqC95yfTl4lZZSIkK9V_E5?usp=drive_link
+- **百度网盘**
+
+---
 
 ### 📊 Benchmark
 
