@@ -47,5 +47,5 @@ We evaluated:
 
 ### 📎 Citation
 
-If you use the CS-MSASR dataset in your research, please cite the following paper:
+For detailed citation information, please refer to our [citations.json](https://github.com/Yaoooyu/CS-MSASR/blob/main/citations.json) file.
 
