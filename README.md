@@ -1,8 +1,8 @@
-# 🎯 CS-MSASR: 
+🎯 CS-MSASR: 
 ## Multimodal Sentiment Analysis and Speech Recognition Dataset for Video Based on Changsha Dialects
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/537b1f36-9fe7-4ab8-8a13-2efbdba669c2" alt="CS-MSASR Dataset Preview" width="400"/>
+  <img src="[https://github.com/user-attachments/assets/537b1f36-9fe7-4ab8-8a13-2efbdba669c2](https://github.com/user-attachments/assets/49a08053-98cc-484c-91c8-0fbdc2db58de)" alt="CS-MSASR Dataset Preview" width="400"/>
 </p>
 
 ---
