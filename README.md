@@ -39,8 +39,8 @@ We introduce **CS-MSASR**, the **first multimodal video dataset** for the Changs
   https://drive.google.com/drive/folders/1g5zbyc6ZMVdqC95yfTl4lZZSIkK9V_E5?usp=drive_link
 
 - **百度网盘**  
-  https://pan.baidu.com/s/1b3NqWo1ZfqJXgjk5GavE7Q  
-  提取码: `w69i`
+     https://pan.baidu.com/s/1lYznkyVZ0GsaDKosHb9fKQ
+  提取码: 2cbi 
 
 - The dataset after feature extraction is in the file CS-MSASR_fulldata.pkl.
 - The file contains all the data and does not differentiate between the training set, testing set and validation set. This is convenient for users to divide the dataset by themselves. If you want to synchronize with the article, please use 8:1:1 division, random_state=42, or contact the author.
