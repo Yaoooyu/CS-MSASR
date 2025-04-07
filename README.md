@@ -1,6 +1,6 @@
-##🎯 CS-MSASR: 
- 
-
+🎯 CS-MSASR: 
+ ## Video Multimodal Dataset： Sentiment Analysis + Speech Recognition
+ ## Base on Changsha --- Representative dialects of southern China
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3ffb7f87-aa79-453e-926c-1cfaab9d5e9f" alt="CS-MSASR Dataset Preview" width="400"/>
 </p>
@@ -9,7 +9,9 @@
 
 ### 📌 Background
 
-Intelligent human-computer interaction systems should not only focus on mainstream languages but also understand **regional dialects** that are rich in emotional and cultural characteristics. Changsha is the capital of Hunan province in China, and the **Changsha dialect**, as one of the significant dialects in southern China, features **variable intonation** and **vivid expressions**, but is **almost absent** in current Artificial Intelligence (AI) corpora.
+Intelligent human-computer interaction systems should extend beyond mainstream languages to embrace **regional dialects**, which carry rich emotional nuances and cultural heritage. As the capital of Hunan Province, **Changsha** is home to the **Changsha dialect**—a prominent variety in southern China known for its **dynamic intonation** and **expressive vocabulary**. However, despite its linguistic value, the Changsha dialect remains **largely underrepresented** in existing Artificial Intelligence (AI) corpora.
+
+This project aims to fill that gap by providing resources and tools tailored for the Changsha dialect, contributing to more inclusive and culturally aware AI systems.
 
 ---
 
