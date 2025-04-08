@@ -1,4 +1,4 @@
- 🎯 CS-MSASR: 
+ 🎯 CS-Mage: 
  ##  Video Multimodal Dialect Dataset： Sentiment Analysis + Speech Recognition 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3ffb7f87-aa79-453e-926c-1cfaab9d5e9f" alt="CS-MSASR Dataset Preview" width="400"/>
@@ -16,7 +16,7 @@ This project aims to fill that gap by providing resources and tools tailored for
 
 ### 📂 Dataset Overview
 
-We introduce **CS-MSASR**, the **first multimodal video dataset** for the Changsha dialect, aimed at **sentiment analysis** and **speech recognition** research.
+We introduce **CS-Mage**, the **first multimodal video dataset** for the Changsha dialect, aimed at **sentiment analysis** and **speech recognition** research.
 
 - 🎥 **1085 video clips** covering diverse real-life scenarios
 - 🗣️ Speakers ranging from **8 to 93 years old**, ensuring diversity
@@ -43,7 +43,7 @@ We introduce **CS-MSASR**, the **first multimodal video dataset** for the Changs
      https://pan.baidu.com/s/1lYznkyVZ0GsaDKosHb9fKQ
   提取码: 2cbi 
 
-- The dataset after feature extraction is in the file CS-MSASR_fulldata.pkl.
+- The dataset after feature extraction is in the file CS-Mage_fulldata.pkl.
 - The file contains all the data and does not differentiate between the training set, testing set and validation set. This is convenient for users to divide the dataset by themselves. If you want to synchronize with the article, please use 8:1:1 division, random_state=42, or contact the author.
 
 ---
@@ -55,7 +55,7 @@ We evaluated:
 - **12 mainstream multimodal sentiment analysis models**
 - **5 speech recognition models** using:
   - Direct inference
-  - Fine-tuning on CS-MSASR
+  - Fine-tuning on CS-Mage
 
 ---
 
