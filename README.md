@@ -52,8 +52,8 @@ We introduce **CS-Mage**, the **first multimodal video dataset** for the Changsh
 
 We evaluated:
 
-- **12 mainstream multimodal sentiment analysis models**
-- **5 speech recognition models** using:
+- **11 mainstream multimodal sentiment analysis models**
+- **8 speech recognition models** using:
   - Direct inference
   - Fine-tuning on CS-Mage
 
